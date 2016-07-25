@@ -33,9 +33,8 @@
 <form method="POST" >
 	<label>username: </label>
 	<input type="text" name="username">
-	<label>type password: </label>	<input type="password" name="password">
-</div>
-
+	<label>type password: </label>	
+	<input type="password" name="password">
 	<label>retype password: </label>
 	<input type="password" name="confirm">
 	<input type="submit" name="check">
