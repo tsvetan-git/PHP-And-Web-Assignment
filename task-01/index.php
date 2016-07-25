@@ -35,7 +35,7 @@
 ?>
 <form method="POST" >
 	<label>Number A</label>
-	<input type="text" name="numberA">
+	<input type="number" name="numberA">
 	<label>Number B</label>
 	<input type="number" name="numberB">
 	<label>Operation</label>
